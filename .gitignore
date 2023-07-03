@@ -2,3 +2,6 @@ contract_new.csv
 internet_new.csv
 personal_new.csv
 phone_new.csv
+gold_recovery_full_new.csv
+gold_recovery_test_new.csv
+gold_recovery_train_new.csv
